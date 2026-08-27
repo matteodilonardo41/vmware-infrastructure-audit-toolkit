@@ -1,5 +1,11 @@
 # VMware Infrastructure Audit Toolkit
 
+[![VMware: Offline Audit](https://img.shields.io/badge/VMware-Offline%20Audit-0079B8?style=flat)](#stato-del-progetto)
+[![PowerShell: 7.6.5 tested](https://img.shields.io/badge/PowerShell-7.6.5%20tested-5391FE?style=flat)](#requisiti)
+[![Reports: CSV + JSON](https://img.shields.io/badge/Reports-CSV%20%2B%20JSON-00897B?style=flat)](#report)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellowgreen?style=flat)](LICENSE)
+[![Local tests: 36 passed](https://img.shields.io/badge/Local%20tests-36%20passed-brightgreen?style=flat)](#test-automatici)
+
 Toolkit PowerShell per analizzare offline inventari VMware e produrre segnalazioni verificabili su snapshot, spazio dei datastore, VMware Tools e hardware virtuale.
 
 Non modifica l'infrastruttura: legge file CSV locali e genera report CSV e JSON.
