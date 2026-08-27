@@ -1,0 +1,31 @@
+# Real VMware and RVTools input data
+input/
+private-data/
+*.xlsx
+*.xls
+
+# Credentials and local environment files
+*.clixml
+*.cred
+*.secret
+.env
+.env.*
+
+# Generated reports
+reports/*
+!reports/example/
+!reports/example/**
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Test artifacts
+TestResults/
+coverage.xml
+
+# Operating system files
+.DS_Store
+Thumbs.db

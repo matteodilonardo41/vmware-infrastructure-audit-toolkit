@@ -1,0 +1,4 @@
+Datastore,CapacityGB,FreeGB
+datastore-prod-01,1024,512
+datastore-warning-01,1024,154
+datastore-critical-01,1024,51

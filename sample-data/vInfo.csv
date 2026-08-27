@@ -1,0 +1,4 @@
+VM,PowerState,vCPU,MemoryGB,GuestOS,ToolsStatus,HardwareVersion,Host,Cluster
+app-demo-01,PoweredOn,4,8,Ubuntu Linux 64-bit,toolsOk,vmx-19,esxi-demo-01,cluster-demo
+db-demo-01,PoweredOn,8,32,Microsoft Windows Server 2022,toolsOld,vmx-19,esxi-demo-02,cluster-demo
+legacy-demo-01,PoweredOff,2,4,Microsoft Windows Server 2012,toolsNotRunning,vmx-13,esxi-demo-01,cluster-demo

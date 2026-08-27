@@ -1,0 +1,18 @@
+{
+  "Progetto": "VMware Infrastructure Audit Toolkit",
+  "GeneratoIl": "2026-08-27T10:16:39.2061230+02:00",
+  "Modalita": "Offline",
+  "Inventario": {
+    "MacchineVirtuali": 3,
+    "Snapshot": 2,
+    "Datastore": 3
+  },
+  "Anomalie": {
+    "Totale": 6,
+    "Critiche": 2,
+    "Alte": 2,
+    "Medie": 1,
+    "Basse": 1,
+    "Informative": 0
+  }
+}

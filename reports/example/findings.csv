@@ -1,0 +1,7 @@
+"Gravita","Categoria","Oggetto","Controllo","Evidenza","Raccomandazione"
+"Critico","Datastore","datastore-critical-01","SpazioLiberoDatastore","4.98% libero; 51 GB su 1024 GB","Verificare la capacità del datastore e pianificare un intervento."
+"Critico","Snapshot","legacy-demo-01","EtaSnapshot","87 giorni; 50 GB; snapshot Legacy-migration","Verificare la snapshot e pianificarne il consolidamento o la rimozione."
+"Alto","Datastore","datastore-warning-01","SpazioLiberoDatastore","15.04% libero; 154 GB su 1024 GB","Verificare la capacità del datastore e pianificare un intervento."
+"Alto","Snapshot","app-demo-01","EtaSnapshot","7 giorni; 2 GB; snapshot Pre-patch","Verificare la snapshot e pianificarne il consolidamento o la rimozione."
+"Medio","VMwareTools","db-demo-01","VMwareToolsNonCorrenti","Stato VM: PoweredOn; stato Tools: toolsOld","Verificare versione e compatibilita dei Tools e valutare un aggiornamento supportato."
+"Basso","HardwareVirtuale","legacy-demo-01","VersioneHardwareSottoSoglia","Versione: vmx-13; soglia configurata: vmx-19","Valutare la policy e la compatibilita con host ESXi, sistema guest e backup prima di pianificare un eventuale aggiornamento."
